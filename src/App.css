@@ -1,0 +1,52 @@
+.App>*{
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.App--sentence {
+  width: 50%;
+}
+
+.App--sentence--letter {
+  padding: 5px;
+  font-size: 20px;
+}
+
+.App--black-list {
+  width: 45%;
+  padding: 40px;
+}
+
+.App--black-list-item {
+  display: inline-block;
+  margin: 1%;
+  width: 30%;
+  line-height: 50px;
+  border: 1px solid #8c8c8c;
+  font-size: 20px;
+  border-radius: 1px;
+  background: #e2ffca;
+}
+
+.App--black-list-item.full {
+  color: white;
+  background: #ff9494;
+}
+
+.App--key-board {
+  width: 100%;
+}
+
+.App--key-board-item {
+  display:inline-block;
+  width: 10%;
+  padding: 10px;
+  margin: 2px;
+}
+
+.App--dashboard {
+  width: 100%;
+  height: 52px;
+  background: #0069d5;
+}
