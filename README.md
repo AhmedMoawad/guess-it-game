@@ -81,7 +81,7 @@ You win the game when you predict the sentence correctly and doesn't reach the 9
 
 ## Features to be added
 
-[ ] Add Dashboard Implementation
+- [ ] Add Dashboard Implementation
 
 <br />
 
