@@ -75,7 +75,7 @@ You win the game when you predict the sentence correctly and doesn't reach the 9
 
 ## Author
 
-#### [Ahmed Moawad]
+#### [Ahmed Moawad](https://github.com/AhmedMoawad)
 
 <br />
 
