@@ -35,6 +35,15 @@ You win the game when you predict the sentence correctly and doesn't reach the 9
 
 ## How to start
 
+Please follow the following Steps:
+
+1. fork the repo in your account.
+2. clone the repo into your local machine.
+3. checkout to `01-empty-project` branch so that you can start coding from scratch.
+4. You can find the whole solution here on `master` branch.
+
+Enjoy :tada:
+
 <br />
 
 ## Game Components
